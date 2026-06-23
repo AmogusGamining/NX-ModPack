@@ -10,7 +10,6 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 
  - [Contents](#CONTENTS)
  - [Installation](#INSTALLATION)
-   * [NX-ModPack](#1-install-nx-modpack)
  - [Homebrew](#INSTALLINGHOMEBREW)
  - [Disclaimer](#DISCLAIMER)
  - [Credits](#CREDITS)
@@ -30,6 +29,16 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 
 ## INSTALLATION
 <details>
+
+ - [NX-ModPack](#1-install-nx-modpack)
+ - [SD CARD](#2-sd-card)
+ - [Tegra RCM](#3-tegra-rcm)
+ - [Boot into Hekate](#4-booting-into-hekate)
+ - [Hekate Settings](#5-hekate-settings)
+   * [Part 1](#part-1)
+   * [Part 2](#part-2)
+ - [Emummc Setup](#6-EmuMMCEmuNand-Setup)
+ - [Launch]()
  
 ### 1. Install NX-ModPack
  Install the latest release of the ModPack from [here](https://github.com/AmogusGamining/NX-ModPack/releases/tag/NX-ModPack).
@@ -47,7 +56,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  <br>
 
 
-### 3. TEGRA RCM
+### 3. Tegra RCM
  Run the Tegra RCM Installer setup in the zip folder.<br>
  <img width="656" height="318" alt="image" src="https://github.com/user-attachments/assets/9de4b95c-8460-4f7e-a7a7-ae0a622303fb" /> <br>
  <br>
@@ -59,7 +68,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  <br>
 
 
-### 4. BOOTING INTO HEKATE
+### 4. Booting into Hekate
  Put an RCM Jig on the right Joycon Rail and Load into RCM Mode by holding volume up button and pressing power button <br>
  (Note: The screen will stay off in RCM Mode, if it boots by doing this then the RCM Jig didnt make good enought contact with the pins on joycon rail) <br>
  Once in RCM Mode, connect your Switch to your PC using a USB <br>
@@ -69,26 +78,42 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  <br>
 
 
- ### 5. HEKATE SETTINGS
+ ### 5. HEKATE SETTINGS 
+ #### Part-1
   In Hekate first go to tools and select "Partition SD Card" <br>
   <img width="1280" height="720" alt="Partition 1" src="https://github.com/user-attachments/assets/8e982b7b-dc8c-4725-b532-a6c931689e79" /> <br>
   <br>
   Move the Emummc(RAW) slider to 29Full <br>
   <img width="1280" height="720" alt="Partition 2" src="https://github.com/user-attachments/assets/ab50c3b9-750d-4c0f-9621-9eb6f3f5a774" /><br>
   And select next step to partition.<br>
-
-
+  <br>
 
   
+ #### Part-2
+  Now, in tools tab go to USB Tools<br>
+  <img width="1280" height="720" alt="USB Tools" src="https://github.com/user-attachments/assets/7f185ced-2376-44ab-84de-9378dc299f54" /><br>
   <br>
-  Now got to home menu and select Emummc<br>
+  And select sd card<br>
+  <img width="1280" height="720" alt="USB Tools2" src="https://github.com/user-attachments/assets/a7892ebf-07c8-449a-ad2d-1cdc80d1e21f" /><br>
+  <br>
+  Connect ur switch to PC using a USB Cable and move the contents of DRAG AFTER folder into sd card root<br>
+  your SD cards root should look like this <br>
+  <img width="698" height="401" alt="image" src="https://github.com/user-attachments/assets/3abfb6e9-4933-4bf1-80ac-8e34b631d8a2" /><br>
+  **Do not delete any new files that are not in picture**<br>
+  <br>
+
+
+### 6. EmuMMC/EmuNand Setup
+  Go to home menu and select Emummc<br>
   <img width="1280" height="720" alt="Emummc" src="https://github.com/user-attachments/assets/3c372483-ee6b-44b9-a1f8-b75dcee2c3fe" /><br>
   <br>
   select create emummc<br>
   <img width="1280" height="720" alt="Emummc 2" src="https://github.com/user-attachments/assets/ea73ba2c-83d4-4d2b-953f-a0a33f712473" /><br>
   <br>
   SD Partition, and then part 1<br>
-  <img width="1280" height="720" alt="Emummc 3" src="https://github.com/user-attachments/assets/b9143f21-5931-491b-8aae-fe4c53fd6b78" />
+  <img width="1280" height="720" alt="Emummc 3" src="https://github.com/user-attachments/assets/b9143f21-5931-491b-8aae-fe4c53fd6b78" /><br>
+  <br>
+  This will take some time so wait.
 
 
 </details>
