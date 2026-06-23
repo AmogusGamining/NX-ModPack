@@ -116,8 +116,17 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
   This will take some time so wait.
 
 
-</details>
+### 7. Launch into CFW
+  Finally its complete,<br>
+  Now in home menu, select the "Launch" option and boot into your desired CFW setting<br>
+<img width="1280" height="720" alt="Launch" src="https://github.com/user-attachments/assets/541aef4c-cfa2-46e3-aecb-3d51e363ce99" /><br>
+<br>
+<br>
 
+## <----------------------------INSTALATION COMPLETE----------------------------><br>
+<br>
+</details>
+<br>
 
 ## INSTALLING HOMEBREW
 
