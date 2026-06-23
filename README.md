@@ -51,7 +51,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  once installed, open Tegra RCM and go to settings tab and click install Driver<br>
  <img width="388" height="321" alt="image" src="https://github.com/user-attachments/assets/866a1955-1e0d-4945-9091-56ae94bc5757" /><br>
  <br>
- After that, in payload tab and load the Hekate Payload in the zip<br>
+ After that, go to payload tab and load the Hekate Payload in the zip<br>
  <img width="1077" height="532" alt="image" src="https://github.com/user-attachments/assets/9d5b3faf-c65b-49cd-a03c-ca0da7196632" />
  <br>
 
