@@ -38,7 +38,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
    * [Part 1](#part-1)
    * [Part 2](#part-2)
  - [Emummc Setup](#6-EmuMMCEmuNand-Setup)
- - [Launch]()
+ - [Launch](#7-Launch-into-CFW)
  
 ### 1. Install NX-ModPack
  Install the latest release of the ModPack from [here](https://github.com/AmogusGamining/NX-ModPack/releases/tag/NX-ModPack).
@@ -123,7 +123,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 <br>
 <br>
 
-## <----------------------------INSTALATION COMPLETE----------------------------><br>
+## <--------------------------INSTALATION COMPLETE--------------------------><br>
 <br>
 </details>
 <br>
