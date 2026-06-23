@@ -29,8 +29,18 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 
 ## INSTALLATION
 
+### 1. Install NX-ModPack
+ 
+
 ## INSTALLING HOMEBREW
 
+ Move the .nro file into the switch folder in your SD card <br>
+ <br>
+ <img width="675" height="366" alt="Screenshot 2026-06-23 133155" src="https://github.com/user-attachments/assets/2959d374-a8ab-4ede-b1ef-e84a71758d79" /> <br>
+ 
+ - Some homebrew require extra files, in that case, move the contents of zip folder of homebrew into root of SD card<br>
+ <br>
+ 
 ## DISCLAIMER
 
 I am **NOT**, in any way, responsible for any damage (or ban) done to your switch if you use this Modpack.<br>
