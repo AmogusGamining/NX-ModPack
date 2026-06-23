@@ -10,7 +10,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 
  - [Contents](#CONTENTS)
  - [Installation](#INSTALLATION)
-   * [Install NX-ModPack](#1.InstallNX-ModPack)
+   * [NX-ModPack](#1-install-nx-modpack)
  - [Homebrew](#INSTALLINGHOMEBREW)
  - [Disclaimer](#DISCLAIMER)
  - [Credits](#CREDITS)
