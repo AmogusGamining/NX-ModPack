@@ -8,7 +8,7 @@ This is a simple and bare bone mod pack with no bloatware whats so ever. I will 
 Keep in mind it is always best to follow the [Switch Modding Guide](https://switch.hacks.guide/) and do everything yourself.
 
 
- - [Contents](#CONTENTS)
+ - [Contents](https://github.com/AmogusGamining/NX-ModPack/edit/main/README.md#contents)
  - [Installation](#INSTALLATION)
  - [Homebrew](#INSTALLINGHOMEBREW)
  - [Disclaimer](#DISCLAIMER)
@@ -28,10 +28,12 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
    * Daybreak, Haze, Reboot to Payload (preinstalled with atmosphere)
 
 ## INSTALLATION
-
+<details>
+ 
 ### 1. Install NX-ModPack
  Install the latest release of the ModPack from [here](https://github.com/AmogusGamining/NX-ModPack/releases/tag/NX-ModPack).
  <br>
+
 
  
 ### 2. SD CARD
@@ -56,11 +58,39 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  <br>
 
 
-### 4.BOOTING INTO HEKATE
+### 4. BOOTING INTO HEKATE
  Put an RCM Jig on the right Joycon Rail and Load into RCM Mode by holding volume up button and pressing power button <br>
  (Note: The screen will stay off in RCM Mode, if it boots by doing this then the RCM Jig didnt make good enought contact with the pins on joycon rail) <br>
  Once in RCM Mode, connect your Switch to your PC using a USB <br>
+ Tegra RCM Payload menu should say RCM OK, Select Inject payload.<br>
+ <img width="386" height="320" alt="Screenshot 2026-06-23 153921" src="https://github.com/user-attachments/assets/e72826a9-3e27-4471-9774-1827981ff9e6" /> <br>
+ Now you will be booting into Hekate Nyx<br>
+ <br>
 
+
+ ### 5. HEKATE SETTINGS
+  In Hekate first go to tools and select "Partition SD Card" <br>
+  <img width="1280" height="720" alt="Partition 1" src="https://github.com/user-attachments/assets/8e982b7b-dc8c-4725-b532-a6c931689e79" /> <br>
+  <br>
+  Move the Emummc(RAW) slider to 29Full <br>
+  <img width="1280" height="720" alt="Partition 2" src="https://github.com/user-attachments/assets/ab50c3b9-750d-4c0f-9621-9eb6f3f5a774" /><br>
+  And select next step to partition.<br>
+
+
+
+  
+  <br>
+  Now got to home menu and select Emummc<br>
+  <img width="1280" height="720" alt="Emummc" src="https://github.com/user-attachments/assets/3c372483-ee6b-44b9-a1f8-b75dcee2c3fe" /><br>
+  <br>
+  select create emummc<br>
+  <img width="1280" height="720" alt="Emummc 2" src="https://github.com/user-attachments/assets/ea73ba2c-83d4-4d2b-953f-a0a33f712473" /><br>
+  <br>
+  SD Partition, and then part 1<br>
+  <img width="1280" height="720" alt="Emummc 3" src="https://github.com/user-attachments/assets/b9143f21-5931-491b-8aae-fe4c53fd6b78" />
+
+
+</details>
 
 
 ## INSTALLING HOMEBREW
