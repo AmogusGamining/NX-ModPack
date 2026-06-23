@@ -30,7 +30,38 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 ## INSTALLATION
 
 ### 1. Install NX-ModPack
+ Install the latest release of the ModPack from [here](https://github.com/AmogusGamining/NX-ModPack/releases/tag/NX-ModPack).
+ <br>
+
  
+### 2. SD CARD
+ Open SD Card on PC and format it (backup Nintendo Folder if you have one) <br>
+ Now in the empty SD Card move the **contents** of "DRAG BEFORE" folder inside.<br>
+ <br>
+ It should look like this <br>
+ <img width="685" height="306" alt="image" src="https://github.com/user-attachments/assets/e4f6bbc7-65b6-4110-82c5-47806bd04b49" /> <br>
+ After this unplug your SD card from the PC, shutdown your switch and put it in your switchs SD slot<br>
+ <br>
+
+
+### 3. TEGRA RCM
+ Run the Tegra RCM Installer setup in the zip folder.<br>
+ <img width="656" height="318" alt="image" src="https://github.com/user-attachments/assets/9de4b95c-8460-4f7e-a7a7-ae0a622303fb" /> <br>
+ <br>
+ once installed, open Tegra RCM and go to settings tab and click install Driver<br>
+ <img width="388" height="321" alt="image" src="https://github.com/user-attachments/assets/866a1955-1e0d-4945-9091-56ae94bc5757" /><br>
+ <br>
+ After that, in payload tab and load the Hekate Payload in the zip<br>
+ <img width="1077" height="532" alt="image" src="https://github.com/user-attachments/assets/9d5b3faf-c65b-49cd-a03c-ca0da7196632" />
+ <br>
+
+
+### 4.BOOTING INTO HEKATE
+ Put an RCM Jig on the right Joycon Rail and Load into RCM Mode by holding volume up button and pressing power button <br>
+ (Note: The screen will stay off in RCM Mode, if it boots by doing this then the RCM Jig didnt make good enought contact with the pins on joycon rail) <br>
+ Once in RCM Mode, connect your Switch to your PC using a USB <br>
+
+
 
 ## INSTALLING HOMEBREW
 
