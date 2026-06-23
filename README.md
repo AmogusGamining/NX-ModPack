@@ -8,7 +8,7 @@ This is a simple and bare bone mod pack with no bloatware whats so ever. I will 
 Keep in mind it is always best to follow the [Switch Modding Guide](https://switch.hacks.guide/) and do everything yourself.
 
 
- - [Contents](https://github.com/AmogusGamining/NX-ModPack/edit/main/README.md#contents)
+ - [Contents](#CONTENTS)
  - [Installation](#INSTALLATION)
  - [Homebrew](#INSTALLINGHOMEBREW)
  - [Disclaimer](#DISCLAIMER)
