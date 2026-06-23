@@ -48,7 +48,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  
 ### 2. SD CARD
  Open SD Card on PC and format it (backup Nintendo Folder if you have one) <br>
- Now in the empty SD Card move the **contents** of "DRAG BEFORE" folder inside.<br>
+ Now in the empty SD Card move the **contents** of "Before" folder inside.<br>
  <br>
  It should look like this <br>
  <img width="685" height="306" alt="image" src="https://github.com/user-attachments/assets/e4f6bbc7-65b6-4110-82c5-47806bd04b49" /> <br>
@@ -96,7 +96,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
   And select sd card<br>
   <img width="1280" height="720" alt="USB Tools2" src="https://github.com/user-attachments/assets/a7892ebf-07c8-449a-ad2d-1cdc80d1e21f" /><br>
   <br>
-  Connect ur switch to PC using a USB Cable and move the contents of DRAG AFTER folder into sd card root<br>
+  Connect ur switch to PC using a USB Cable and move the contents of "After" folder into sd card root<br>
   your SD cards root should look like this <br>
   <img width="698" height="401" alt="image" src="https://github.com/user-attachments/assets/3abfb6e9-4933-4bf1-80ac-8e34b631d8a2" /><br>
   **Do not delete any new files that are not in picture**<br>
