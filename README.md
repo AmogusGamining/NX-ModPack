@@ -134,7 +134,9 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  <br>
  <img width="675" height="366" alt="Screenshot 2026-06-23 133155" src="https://github.com/user-attachments/assets/2959d374-a8ab-4ede-b1ef-e84a71758d79" /> <br>
  
- - Some homebrew require extra files, in that case, move the contents of zip folder of homebrew into root of SD card<br>
+ - Some homebrew require extra files, in that case, move the contents of zip folder of homebrew into root of SD card
+
+ If you want a simple Homebrew pack to start off your modding journey, you can try out [Essential-NX](https://github.com/AmogusGamining/Essential-NX).<br>
  <br>
  
 ## DISCLAIMER
