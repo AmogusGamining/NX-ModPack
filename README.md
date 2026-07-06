@@ -1,7 +1,7 @@
 # NX-ModPack
 
 
-A mod pack to easily and seamlessly mod your switch.<br>
+A simple no bloatware Mod Pack to easily and seamlessly jailbreak your Nintendo Switch.<br>
 <br>
 This is a simple and bare bone mod pack with no bloatware whats so ever. I will try to keep this up to date as any of its contents get updated.<br>
 <br>
