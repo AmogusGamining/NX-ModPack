@@ -20,6 +20,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
  - [Hekate-Nyx](https://github.com/CTCaer/hekate)
  - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
  - [Sys-Patches](https://github.com/impeeza/sys-patch)
+ - [LockPickRCM](https://github.com/saneki/Lockpick_RCM)
  - exosphere.ini
  - DNS-MITM
  - Homebrew:
@@ -149,5 +150,6 @@ I am **NOT**, in any way, responsible for any damage (or ban) done to your switc
  - [Atmosphere-NX](https://github.com/Atmosphere-NX) for the creation of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
  - [Impeeza](https://github.com/impeeza) for the creation of [Sys-Patches](https://github.com/impeeza/sys-patch)
  - [XorTroll](https://github.com/XorTroll) for the creation of [Goldleaf](https://github.com/xortroll/goldleaf)
+ - [Saneki](https://github.com/saneki) for the creatiion of [LockPickRCM](https://github.com/saneki/Lockpick_RCM).
  - [Switchbrew](https://github.com/switchbrew) for the creation of [NX-HBmenu](https://github.com/switchbrew/nx-hbmenu)
  - [Switch Modding Guide](https://switch.hacks.guide/) for an in depth explaination of modding your switch
