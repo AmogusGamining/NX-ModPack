@@ -58,6 +58,7 @@ Keep in mind it is always best to follow the [Switch Modding Guide](https://swit
 
 
 ### 3. Tegra RCM
+ If your switch is Hardmodded/Modchiped (i.e patched,OLED,Lite with Modchip soldered on) then skip to [here](#4-booting-into-hekate). <br>
  Run the Tegra RCM Installer setup in the zip folder.<br>
  <img width="656" height="318" alt="image" src="https://github.com/user-attachments/assets/9de4b95c-8460-4f7e-a7a7-ae0a622303fb" /> <br>
  <br>
